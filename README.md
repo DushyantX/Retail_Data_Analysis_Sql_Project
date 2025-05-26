@@ -7,7 +7,6 @@ This project focuses on analyzing retail data using SQL to uncover meaningful in
 - Sales Performance Analysis: Measuring revenue growth and profitability.
 Feel free to clone, explore, and contribute!
 
-Okay, I will format the information from the sources and our conversation into a README file structure suitable for GitHub, explaining how transaction data and demographics can be used to identify profitable customer segments, based on the provided SQL case study.
 
 ```markdown
 # Identifying Profitable Customer Segments Using Transaction and Demographic Data
